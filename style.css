@@ -1,0 +1,18 @@
+#top-nav {
+    background-color: black;
+    margin: 0 auto;
+}
+#photo-row {
+    margin: 0 auto
+}
+.auth-image {
+    float: left;
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+    margin-right: 25px;
+  }
+  .card-deck {
+      margin-top: 20px;
+      margin: 0 auto
+  }
